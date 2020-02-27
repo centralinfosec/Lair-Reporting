@@ -6,7 +6,7 @@ Lair Reporting is a penetration testing and red teaming script that converts Lai
 
 Clone the GitHub repository
 ```
-git clone https://github.com/jamesm0rr1s/Lair-Reporting /opt/jamesm0rr1s/Lair-Reporting
+git clone https://github.com/centralinfosec/Lair-Reporting /opt/Central-InfoSec/Lair-Reporting
 ```
 
 ## Usage
